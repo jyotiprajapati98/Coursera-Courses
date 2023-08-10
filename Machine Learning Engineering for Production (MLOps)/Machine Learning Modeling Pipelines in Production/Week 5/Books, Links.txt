@@ -1,0 +1,2 @@
+Model interpretability - https://christophm.github.io/interpretable-ml-book/
+Flexible, controlled and interpretable ML with lattice based models - https://www.tensorflow.org/lattice
